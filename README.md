@@ -7,3 +7,6 @@ People can access code, add their own and suggest improvements or extensions to 
 Disclaimer: This code repository was created as a starting point for people to create and copy their own scripts.
 Anything used should be tested on a non-production server first. 
 Please be sure to use this content with care within your own context.
+
+When adding Repositories, add the 'Content Type' to the start of the name of the Repo
+Example: External Organisation - Alternative Name Update
