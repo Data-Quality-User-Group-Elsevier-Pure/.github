@@ -10,3 +10,6 @@ Please be sure to use this content with care within your own context.
 
 When adding Repositories, add the 'Content Type' to the start of the name of the Repo
 Example: External Organisation - Alternative Name Update
+
+Workflow is centralised
+https://www.atlassian.com/git/tutorials/comparing-workflows
